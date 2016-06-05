@@ -3,6 +3,8 @@ layout: post
 title:  "Maquiagem para o trabalho"
 date:   2016-06-03 17:41:20 -0300
 categories: maquiagem
+author: Luciane Kreutzfeld
+author_img: luciane.png
 ---
 Semanalmente dou dicas de como se vestir adequadamente para o ambiente profissional, mas além da roupa, é importante ter uma boa aparência. E no caso da maquiagem, “menos é mais”!
 

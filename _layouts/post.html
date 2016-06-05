@@ -18,7 +18,7 @@ layout: default
       {% if page.previous %}
         <div class="col-md-6 post-nav">
           <h3 class="section-header">
-            Older
+            Anterior
             <span class="text-muted"> &middot; </span>
             <a href="{{ "/archive" | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
           </h3>
@@ -29,7 +29,7 @@ layout: default
       {% if page.next %}
         <div class="col-md-6 post-nav">
           <h3 class="section-header">
-            Newer
+            Próximo
             {% unless page.previous %}
               <span class="text-muted"> &middot; </span>
               <a href="{{ "/archive" | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
