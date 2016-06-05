@@ -1,8 +1,4 @@
 <!-- Feel free to remove this div. Uses purplecoat: http://ellekasai.github.io/purplecoat.js -->
-<div data-purplecoat="shiori" data-purplecoat-label="post-footer.html">
-  <div class="well well-sm">
-    {% if page.categories != empty %}
-      <p class="text-muted">{{ page.categories | category_links }}</p>
-    {% endif %}
-  </div>
-</div>
+{% if page.categories != empty %}
+  <span class="post-tag">{{ page.categories | category_links }}</span>
+{% endif %}
