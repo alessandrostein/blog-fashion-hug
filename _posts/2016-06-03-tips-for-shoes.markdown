@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 SAPATOS BRANCOS PARA COMPRAR AGORA!"
+title:  "5 sapatos brancos para comprar agora!"
 date:   2016-06-03 17:31:20 -0300
 categories: dicas
 ---
