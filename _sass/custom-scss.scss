@@ -19,5 +19,9 @@
 }
 
 .navbar-default .navbar-toggle {
-  color: #FFF !important;
+  border-color: #FFF !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #FFF !important;
 }
