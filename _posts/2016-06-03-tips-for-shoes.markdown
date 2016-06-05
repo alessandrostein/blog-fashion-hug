@@ -2,7 +2,7 @@
 layout: post
 title:  "5 SAPATOS BRANCOS PARA COMPRAR AGORA!"
 date:   2016-06-03 17:31:20 -0300
-categories: tips
+categories: dicas
 ---
 Quem diria que um par de sapatos brancos conseguiria deixar um look tão cool? E se você adora um estilo casual ou minimalista, temos certeza que sapatos brancos vão fazer toda a diferença no seu closet.
 
