@@ -2,3 +2,7 @@
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Maquiagem</a></li>
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Cabelo</a></li>
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Sapatilhas</a></li>
+
+{% if page.categories != empty %}
+<p class="text-muted">Filed under {{ page.categories | category_links }} </p>
+{% endif %}
