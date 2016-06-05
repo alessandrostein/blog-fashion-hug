@@ -2,3 +2,10 @@
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Maquiagem</a></li>
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Cabelo</a></li>
 <li><a href="http://github.com/ellekasai/shiori" target="_blank">Sapatilhas</a></li>
+
+<ul>
+{{ "{% assign sorted_categories = site.categories | sort" }} %}
+{{ "{% for category in sorted_categories" }} %}
+<li><a href="{{ "{{ category | first | category_link" }}}}">{{ "{{ category | first | capitalize" }}}}</a></li>
+{{ "{% endfor" }} %}
+</ul>
