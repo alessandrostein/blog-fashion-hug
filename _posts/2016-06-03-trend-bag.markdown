@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Trend – Bolsa saco"
-date:   2016-06-03 17:51:20 -0300
+date:   2016-06-03 17:51:30 -0300
 categories: tendências
 author: Luciane Kreutzfeld
-author_img: luciane.png
+author_img: luciane.jpg
 ---
 Ei pessoal!
 

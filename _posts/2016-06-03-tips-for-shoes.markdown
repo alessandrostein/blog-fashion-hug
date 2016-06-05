@@ -4,7 +4,7 @@ title:  "5 sapatos brancos para comprar agora!"
 date:   2016-06-03 17:31:20 -0300
 categories: dicas
 author: Luciane Kreutzfeld
-author_img: luciane.png
+author_img: luciane.jpg
 ---
 Quem diria que um par de sapatos brancos conseguiria deixar um look tão cool? E se você adora um estilo casual ou minimalista, temos certeza que sapatos brancos vão fazer toda a diferença no seu closet.
 

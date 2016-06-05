@@ -4,7 +4,7 @@ title:  "Tricot midi"
 date:   2016-06-03 17:51:20 -0300
 categories: looks
 author: Luciane Kreutzfeld
-author_img: luciane.png
+author_img: luciane.jpg
 ---
 Como o clima do inverno está cada vez mais intenso, pelo menos aqui em São Paulo, vim trazer pra vcs mais um look invernal lindo e cheio de inspirações, ah e cheio de tendências modernas também.
 
