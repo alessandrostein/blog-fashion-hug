@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DICAS PARA FICAR POR DENTRO DO EMPODERAMENTO FEMININO"
+title:  "Fique por dentro do que é o Empoderamento Feminino"
 date:   2016-06-14 18:41:20 -0300
 categories: dicas
 author: Suélin Gregory
