@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MOSCHINO x PRESLEY GERBER"
+title:  "Moschino x Presley Gerber"
 date:   2016-06-15 17:41:20 -0300
 categories: tendências
 author: Marcia Laube
