@@ -2,7 +2,7 @@
 layout: post
 title:  "MOSCHINO x PRESLEY GERBER"
 date:   2016-06-15 17:41:20 -0300
-categories: tendencias
+categories: tendências
 author: Marcia Laube
 author_img: marcia.jpg
 ---
