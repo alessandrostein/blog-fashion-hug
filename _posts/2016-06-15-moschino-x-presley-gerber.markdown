@@ -46,7 +46,18 @@ Confiram os looks que amamos dessa coleção flowerpower cara dos anos 70 ultrac
 
 ![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia17.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia17.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia18.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia17.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia19.png)
+
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia20.png)
+
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia21.png)
+
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia22.png)
+
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia23.png)
+
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia24.png)
+
 
