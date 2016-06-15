@@ -2,7 +2,7 @@
 layout: post
 title:  "Desfile Lino Villaventura"
 date:   2016-06-03 17:41:20 -0300
-categories: tendencias
+categories: tendências
 author: Gislaine Mello
 author_img: gislaine.jpg
 ---
