@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tencências Renato Ratier"
+title:  "Tendências Renato Ratier"
 date:   2016-06-14 18:41:20 -0300
 categories: tendências
 author: Gislaine Mello
