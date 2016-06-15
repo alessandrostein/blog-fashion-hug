@@ -6,6 +6,7 @@ categories: tendencias
 author: Marcia Laube
 author_img: marcia.jpg
 ---
+
 Para seguir já no instagram @presleygerber !! Filho de Cindy Crawford, Presley Gerber já está seguindo os caminhos da mãe e você confere aqui cliques do modelo para a marca Moschino da coleção Resort 2017.
 
 ![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/marcia1.png)
