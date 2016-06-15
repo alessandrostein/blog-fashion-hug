@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Desfiles"
+title:  "Desfile Karl Lagerfeld"
 date:   2016-06-14 20:41:20 -0300
 categories: tendências
 author: Gislaine Mello
