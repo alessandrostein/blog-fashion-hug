@@ -3,8 +3,8 @@ layout: post
 title:  "All Star"
 date:   2016-06-14 17:41:20 -0300
 categories: looks
-author: Janaina Meisen
-author_img: janaina.jpg
+author: Marcia Laube
+author_img: marcia.jpg
 ---
 
 Separamos looks para se inspirar com o nosso queridinho Converse All Star!! A marca atua no mercado desde 1908, com pegada jovem, atendendo desde esportistas até amantes do rock ‘n’roll, carregando a essência e conceito da marca através de diversos modelos e cores. 
