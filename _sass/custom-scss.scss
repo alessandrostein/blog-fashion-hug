@@ -100,15 +100,23 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
+    margin-right: 15px;
+    -khtml-opacity: .50;
+    -moz-opacity: .50;
+    -ms-filter: "alpha(opacity=50)";
+    filter: alpha(opacity=50);
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.5);
+    opacity: 0.5;
   }
 
   .btn-about {
-    padding: 15px;
+    padding: 10px;
     border: 1px solid #FFF;
     border-radius: 11px;
-    background-color: none;
+    background-color: rgba(224, 114, 128, 0.69);
     color: #FFF;
-    font-size: 26px;
+    font-size: 16px;
     text-align: center;
+    right: 4%;
   }
 }
