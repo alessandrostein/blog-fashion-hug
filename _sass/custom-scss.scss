@@ -40,7 +40,20 @@
 
 .about {
   height: 160px;
-  border-radius: 4px;
-  background-color: #c6d6ed;
+  border-radius: 11px;
+  background-color: rgba(198, 214, 237, 0.78);
+  background-position-x: -105px;
+  background-repeat: no-repeat;
   background-image: url(http://www.alessandrostein.com/blog-fashion-hug/images/team/team_background.png);
+}
+
+.btn-about {
+  padding: 15px;
+  border-radius: 11px;
+  background-color: #e07280;
+  color: #FFF;
+  font-size: 22px;
+  text-align: center;
+  position: relative;
+  top: 45%;
 }
