@@ -39,6 +39,8 @@
 }
 
 .about {
+  margin-top: -20px;
+  margin-bottom: 20px;
   height: 160px;
   border-radius: 11px;
   background-color: rgba(198, 214, 237, 0.78);
@@ -52,8 +54,15 @@
   border-radius: 11px;
   background-color: #e07280;
   color: #FFF;
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   position: relative;
-  top: 45%;
+  top: 30%;
+  right: 2%;
+}
+
+.btn-about:hover {
+  background-color: rgba(224, 114, 128, 0.62);
+  color: #FFF;
+  text-decoration: none;
 }
