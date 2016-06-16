@@ -49,6 +49,28 @@
   background-image: url(http://www.alessandrostein.com/blog-fashion-hug/images/team/team_background.png);
 }
 
+.about-m {
+  height: 160px;
+  border-radius: 11px;
+  background-image: url(http://www.alessandrostein.com/blog-fashion-hug/images/team/team_background.png);
+  background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+}
+
+.btn-about-m {
+  padding: 15px;
+  border: 1px solid #FFF;
+  border-radius: 11px;
+  background-color: none;
+  color: #FFF;
+  font-size: 26px;
+  text-align: center;
+}
+
 .btn-about {
   padding: 15px;
   border-radius: 11px;
