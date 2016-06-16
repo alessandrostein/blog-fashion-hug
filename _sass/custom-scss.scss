@@ -44,7 +44,7 @@
   height: 160px;
   border-radius: 11px;
   background-color: rgba(198, 214, 237, 0.78);
-  background-position-x: -105px;
+  background-position: calc(100% - 90px) 0px;
   background-repeat: no-repeat;
   background-image: url(http://www.alessandrostein.com/blog-fashion-hug/images/team/team_background.png);
 }
