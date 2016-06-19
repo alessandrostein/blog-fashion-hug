@@ -10,25 +10,25 @@ author_img: marcia.jpg
 Separamos looks para se inspirar com o nosso queridinho Converse All Star!! A marca atua no mercado desde 1908, com pegada jovem, atendendo desde esportistas até amantes do rock ‘n’roll, carregando a essência e conceito da marca através de diversos modelos e cores. 
 Fique de olho, se inspire, se reinvente e use você também o tênis que nunca sai de moda!
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana1.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j1.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana2.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j2.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana3.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j3.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana4.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j4.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana5.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j5.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana6.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j6.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana7.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j7.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana8.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j8.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana9.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j9.png)
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/jana10.png)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/j10.png)
 
 São diversas opções, já escolheu a sua?????
 
