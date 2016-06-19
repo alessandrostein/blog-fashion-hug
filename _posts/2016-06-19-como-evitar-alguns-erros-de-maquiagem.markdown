@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MAQUIADOR DE KIM KARDASHIAN LISTA OS 3 PRINCIPAIS ERROS DE MAQUIAGEM: SAIBA COMO EVITÁ-LOS"
+title:  "Maquiador de Kim Kardashian lista os 3 principais erros de maquiagem: Saiba como evitá-los"
 date:   2016-06-19 11:41:20 -0300
 categories: maquiagem
 author: Janaina Meisen
