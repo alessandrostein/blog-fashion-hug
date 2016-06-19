@@ -11,6 +11,7 @@ Olá amores... hoje nossa dica vai para os amantes de leitura e cinema!
 
 “Como Eu Era Antes De Você” é nossa indicação..emocionante!!! Você não pode deixar de ler esse romance incrível e acompanhar o que a Editora Intrínseca tem a dizer sobre essa superprodução do cinema!
 
+Confira o Link:
 [http://www.intrinseca.com.br/jojomoyes/comoeueraantesdevoce/](http://www.intrinseca.com.br/jojomoyes/comoeueraantesdevoce/)
 
 ![](http://4.bp.blogspot.com/-UuFVU5SEZ3I/VciwTsq3ueI/AAAAAAAAEHQ/vrbbRPDlcaM/s1600/download%2B%25281%2529.jpg)
