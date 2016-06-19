@@ -7,8 +7,6 @@ author: Janaina Meisen
 author_img: janaina.jpg
 ---
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/janaina1.png)
-
 Não há como pensar em Kim Kardashian e não lembrar da suas maquiagens super elaboradas. Com a pele sempre impecável, contornos marcantes e makes que nunca passam despercebidas nos redcarpets, a socialite se tornou um ícone no mundo da beleza. Quem é responsável por essas maquiagens tão marcantes, no entanto, é o beauty expert das celebridades Mario Dedivanovic. O makeupartist abriu o jogo em entrevista ao site Byrdie, e entregou os 3 principais erros de maquiagem que devem ser evitados para quem deseja a pele perfeita. 
 
 ![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/janaina1.png)
