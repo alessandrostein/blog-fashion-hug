@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O QUE O SEU DELINEADO DIZ SOBRE VOCÊ? DESCUBRA O QUE DIFERENTES TRAÇOS REVELAM SOBRE A PERSONALIDADE"
+title:  "O que o seu delineado diz sobre você? Descubra o que diferentes traços revelam sobre a personalidade"
 date:   2016-06-19 10:41:20 -0300
 categories: maquiagem
 author: Janaina Meisen
