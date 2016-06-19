@@ -3,7 +3,7 @@ layout: post
 title:  "Workshop"
 date:   2016-06-19 17:41:20 -0300
 categories: dicas
-author: Suelin Greogory
+author: Suelin Gregory
 author_img: suelin.jpg
 ---
 
