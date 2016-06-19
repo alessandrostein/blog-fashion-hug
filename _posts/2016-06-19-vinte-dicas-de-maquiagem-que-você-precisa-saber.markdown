@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "20 dicas de maquiagem que você precisa saber!"
-date:   2016-06-19 17:41:20 -0300
+date:   2016-06-19 09:41:20 -0300
 categories: maquiagem
 author: Janaina Meisen
 author_img: janaina.jpg
