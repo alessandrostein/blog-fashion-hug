@@ -10,9 +10,10 @@ author_img: marcia.jpg
 Olá amores... hoje nossa dica vai para os amantes de leitura e cinema!
 
 “Como Eu Era Antes De Você” é nossa indicação..emocionante!!! Você não pode deixar de ler esse romance incrível e acompanhar o que a Editora Intrínseca tem a dizer sobre essa superprodução do cinema!
-http://www.intrinseca.com.br/jojomoyes/comoeueraantesdevoce/
 
-[http://4.bp.blogspot.com/-UuFVU5SEZ3I/VciwTsq3ueI/AAAAAAAAEHQ/vrbbRPDlcaM/s1600/download%2B%25281%2529.jpg](http://4.bp.blogspot.com/-UuFVU5SEZ3I/VciwTsq3ueI/AAAAAAAAEHQ/vrbbRPDlcaM/s1600/download%2B%25281%2529.jpg)
+[http://www.intrinseca.com.br/jojomoyes/comoeueraantesdevoce/](http://www.intrinseca.com.br/jojomoyes/comoeueraantesdevoce/)
+
+![](http://4.bp.blogspot.com/-UuFVU5SEZ3I/VciwTsq3ueI/AAAAAAAAEHQ/vrbbRPDlcaM/s1600/download%2B%25281%2529.jpg)
 
 “Um livro magistral, com personagens que são carismáticos, verossímeis e absolutamente convincentes. Lou e Will vão conquistar o coração dos leitores como fizeram Emma e Dex, de Um dia.”
 The Independent
