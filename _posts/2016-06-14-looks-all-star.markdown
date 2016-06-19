@@ -32,6 +32,6 @@ Fique de olho, se inspire, se reinvente e use você também o tênis que nunca s
 
 São diversas opções, já escolheu a sua?????
 
-Para conhecer um pouco mais da história da Converse All Star 
-[segue link](http://revistalofficiel.com.br/conheca-a-historia-da-converse-all-star/)
+Para conhecer um pouco mais da história da Converse All Star segue link
+[http://revistalofficiel.com.br/conheca-a-historia-da-converse-all-star/](http://revistalofficiel.com.br/conheca-a-historia-da-converse-all-star/)
 ---- 
