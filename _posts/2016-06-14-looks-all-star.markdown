@@ -34,4 +34,3 @@ São diversas opções, já escolheu a sua?????
 
 Para conhecer um pouco mais da história da Converse All Star segue link
 [http://revistalofficiel.com.br/conheca-a-historia-da-converse-all-star/](http://revistalofficiel.com.br/conheca-a-historia-da-converse-all-star/)
----- 
