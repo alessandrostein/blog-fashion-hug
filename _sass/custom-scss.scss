@@ -89,6 +89,26 @@
   text-decoration: none;
 }
 
+.circle {
+  border-radius: 50%;
+}
+
+.person {
+  background-color: rgba(198, 214, 237, 0.78);
+  border-radius: 11px;
+  padding: 20px;
+}
+
+.person-name {
+  background-color: #e07280;
+  padding: 10px;
+}
+
+.person-name h4 {
+  color: #FFF;
+  font-size: 22px;
+}
+
 @media(max-width: 640px) {
   .about {
     height: 160px;
