@@ -121,7 +121,7 @@ Semana começando, e você já está pensando em um look pra usar no fds para ca
 
 Esse final de semana lindo, merece um look que faça você se sentir a vontade e linda. Que tal esse vestido com transparência e renda que combina com qualquer ocasião ❤️
 
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/gi32.jpg)
+![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/gih%2032.jpg)
 
 Meninassss look super descolado e que da pra usar de dois jeitos.
 
