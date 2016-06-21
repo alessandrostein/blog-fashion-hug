@@ -1,4 +1,4 @@
-baseurl: "/" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+baseurl: "abraceamoda.xyz/" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "abraceamoda.xyz" # the base hostname & protocol for your site
 title: "Abrace a moda"
 
