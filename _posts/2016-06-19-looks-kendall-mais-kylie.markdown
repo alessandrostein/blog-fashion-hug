@@ -3,8 +3,8 @@ layout: post
 title:  "Looks Kendall + Kylie"
 date:   2016-06-19 07:41:20 -0300
 categories: looks
-author: Marcia Laube
-author_img: marcia.jpg
+author: Janaina Meisen
+author_img: janaina.jpg
 ---
 
 Para ficar de olho....... Kendall + Kylie
