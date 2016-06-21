@@ -3,8 +3,8 @@ layout: post
 title:  "Desfile Lino Villaventura"
 date:   2016-06-14 17:41:20 -0300
 categories: tendências
-author: Gislaine Mello
-author_img: gislaine.jpg
+author: Caroline Deschamps
+author_img: caroline.jpg
 ---
 
 Desfile com história é bom de assistir, transporta a gente para um outro mundo, mas lembra também que aquele cenário foi feito pra gente. São poucos os artistas que conseguem, ou se esforçam para isso, nesse caso é natural. Lino Villaventura é único, tem a capacidade de amarrar perfeitamente todos os pontos do seu desfile: o cenário, a beleza, o casting, a trilha sonora, a experiência, tudo conta uma história. Envolvente e emocionante. 
