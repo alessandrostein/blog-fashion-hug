@@ -3,8 +3,8 @@ layout: post
 title:  "O que o seu delineado diz sobre você? Descubra o que diferentes traços revelam sobre a personalidade"
 date:   2016-06-19 10:41:20 -0300
 categories: maquiagem
-author: Janaina Meisen
-author_img: janaina.jpg
+author: Gislaine Mello
+author_img: gislaine.jpg
 ---
 
 Excelente para dar profundidade e destaque ao olhar, o delineado é o queridinho de make de muitas mulheres, que não abrem mão dele nem quando estão na correria. Além do estilo de roupa, a maquiagem preferida também diz muito sobre a personalidade, e o tipo de traço feito com o delineador entrega vários detalhes do jeitinho de cada uma. Saiba o que o seu delineado conta sobre você!
