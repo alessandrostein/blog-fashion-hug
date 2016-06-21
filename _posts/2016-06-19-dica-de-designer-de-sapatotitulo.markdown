@@ -3,8 +3,8 @@ layout: post
 title:  "Dica de designer de sapato"
 date:   2016-06-19 08:41:20 -0300
 categories: dicas
-author: Marcia Laube
-author_img: marcia.jpg
+author: Suélin Gregory
+author_img: suelen.jpg
 ---
 
 O designer britânico Paul Andrew é a nova atração do momento quando se pensa em sapatos! Atualmente sua marca de sapatos foi premiada com o SwarovskiAward for Accessory Designer no CFDA (Counsilof Fashion Designers ofAmerica)!!
