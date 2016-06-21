@@ -90,7 +90,7 @@
 }
 
 .circle {
-  border-radius: 50%;
+  border-radius: 50% !important;
 }
 
 .person {
@@ -101,7 +101,7 @@
 
 .person-name {
   background-color: #e07280;
-  padding: 10px;
+  padding-left: 10px;
 }
 
 .person-name h4 {
