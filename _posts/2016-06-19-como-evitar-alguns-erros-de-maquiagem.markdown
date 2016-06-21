@@ -3,8 +3,8 @@ layout: post
 title:  "Maquiador de Kim Kardashian lista os 3 principais erros de maquiagem: Saiba como evitá-los"
 date:   2016-06-19 11:41:20 -0300
 categories: maquiagem
-author: Janaina Meisen
-author_img: janaina.jpg
+author: Marcia Laube
+author_img: marcia.jpg
 ---
 
 Não há como pensar em Kim Kardashian e não lembrar da suas maquiagens super elaboradas. Com a pele sempre impecável, contornos marcantes e makes que nunca passam despercebidas nos redcarpets, a socialite se tornou um ícone no mundo da beleza. Quem é responsável por essas maquiagens tão marcantes, no entanto, é o beauty expert das celebridades Mario Dedivanovic. O makeupartist abriu o jogo em entrevista ao site Byrdie, e entregou os 3 principais erros de maquiagem que devem ser evitados para quem deseja a pele perfeita. 
