@@ -3,8 +3,8 @@ layout: post
 title:  "Leitura + Filme (In love)"
 date:   2016-06-14 17:41:20 -0300
 categories: dicas
-author: Marcia Laube
-author_img: marcia.jpg
+author: Janaina Meisen
+author_img: janaina.jpg
 ---
 
 Olá amores... hoje nossa dica vai para os amantes de leitura e cinema!
