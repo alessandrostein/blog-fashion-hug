@@ -45,15 +45,15 @@
       </div>
     </div>
     <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="about">
-            {% unless page.title == "Sobre o projeto" %}
+      {% unless page.title == "Sobre o projeto" %}
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="about">
               <a href="{{ "/about" | prepend:site.baseurl }}" class="pull-right btn-about">Conheça mais sobre o projeto</a>
-            {% endunless %}
+            </div>
           </div>
         </div>
-      </div>
+      {% endunless %}
       <div class="row">
         {% if page.hide_sidebar or site.data.theme.hide_sidebar %}
           <div class="col-sm-12">
