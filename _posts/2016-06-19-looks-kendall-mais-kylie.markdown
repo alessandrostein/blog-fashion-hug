@@ -31,5 +31,3 @@ A marca das irmãs Kendall Jenner e Kylie Jenner já deu o que falar com peças 
 ![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/ma10.png)
 
 ![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/ma11.png)
-
-![](http://www.alessandrostein.com/blog-fashion-hug/images/posts/ma12.png)
