@@ -48,9 +48,7 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="about">
-            {% if page.title == "Sobre o projeto" %}
-              <a href="{{ "/contact" | prepend:site.baseurl }}" class="pull-right btn-about">Conheça as autoras</a>
-            {% else %}
+            {% unless page.title == "Sobre o projeto" %}
               <a href="{{ "/about" | prepend:site.baseurl }}" class="pull-right btn-about">Conheça mais sobre o projeto</a>
             {% endif %}
           </div>
