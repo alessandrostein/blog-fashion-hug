@@ -3,8 +3,8 @@ layout: post
 title:  "Entrevista com Irma Marquardt da CEKAT Agência de Modelos"
 date:   2016-06-19 17:41:20 -0300
 categories: dicas
-author: Caroline Deschamps
-author_img: caroline.jpg
+author: Gislaine Mello
+author_img: gislaine.jpg
 ---
 
 Pessoal não deixem de conferir essa mega entrevista com a Irma Marquardt, proprietária da Agência de Modelos CEKAT!!!
