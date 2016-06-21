@@ -111,10 +111,13 @@
 
 .social-contacts {
   list-style: none;
+  padding: 15px 0px;
 }
 
 .social-contacts li {
-  display: inline;
+  display: block;
+  float: left;
+  margin-right: 10px;
 }
 
 @media(max-width: 640px) {
