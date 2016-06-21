@@ -3,8 +3,8 @@ layout: post
 title:  "Fique por dentro do que é o Empoderamento Feminino"
 date:   2016-06-14 18:41:20 -0300
 categories: dicas
-author: Suélin Gregory
-author_img: suelen.jpg
+author: Janaina Meisen
+author_img: janaina.jpg
 ---
 
 Hoje vamos falar um pouco sobre o empoderamento feminino, o que é, os sete princípios e algumas polêmicas sobre o assunto. 
