@@ -3,8 +3,8 @@ layout: post
 title:  "20 dicas de maquiagem que você precisa saber!"
 date:   2016-06-19 09:41:20 -0300
 categories: maquiagem
-author: Janaina Meisen
-author_img: janaina.jpg
+author: Luciane Kreutzfeld
+author_img: luciane.jpg
 ---
 
 Aliada indispensável da beleza feminina, a maquiagem tem lá seus (vários) segredinhos. Com produtos específicos e técnicas corretas é possível valorizar os olhos. Sabe aquelas dicas que só os profissionais conhecem e fazem toda a diferença na hora do make? Essas dicas vão te ajudar a reduzir o tempo na frente do espelho.
