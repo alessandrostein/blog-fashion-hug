@@ -3,8 +3,8 @@ layout: post
 title:  "Opções de Looks"
 date:   2016-06-14 17:41:20 -0300
 categories: looks
-author: Gislaine Mello
-author_img: gislaine.jpg
+author: Marcia Laube
+author_img: marcia.jpg
 ---
 
 Conjunto super fofo, apara usar em varias ocasiões!!!
