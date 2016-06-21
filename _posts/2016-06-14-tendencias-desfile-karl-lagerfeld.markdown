@@ -3,8 +3,8 @@ layout: post
 title:  "Desfile Karl Lagerfeld"
 date:   2016-06-14 20:41:20 -0300
 categories: tendências
-author: Gislaine Mello
-author_img: gislaine.jpg
+author: Suélin Gregory
+author_img: suelen.jpg
 ---
 
 Rolling Stones, Obama, e agora Chanel em Cuba. Mal o país retoma o fôlego, e seu solo é cenário de mais uma intervenção do mega-consumo, do capitalismo astronômico. A que ponto chegamos?
