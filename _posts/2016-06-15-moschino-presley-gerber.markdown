@@ -3,8 +3,8 @@ layout: post
 title:  "Moschino x Presley Gerber"
 date:   2016-06-15 17:41:20 -0300
 categories: tendências
-author: Marcia Laube
-author_img: marcia.jpg
+author: Luciane Kreutzfeld
+author_img: luciane.jpg
 ---
 
 Para seguir já no instagram [@presleygerber](https://www.instagram.com/presleygerber/) !! Filho de Cindy Crawford, Presley Gerber já está seguindo os caminhos da mãe e você confere aqui cliques do modelo para a marca Moschino da coleção Resort 2017.
